@@ -5,6 +5,6 @@ theme = 'lynx'
 
 [module]
   [[module.imports]]
-	path = "lynx"
+	path = "github.com/jpanther/lynx"
 	# project theme
 
