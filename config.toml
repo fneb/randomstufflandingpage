@@ -62,8 +62,3 @@ disableKinds = ["taxonomy", "term"]
     # { x = "https://x.com/username" },
     # { youtube = "https://youtube.com/username" },
   ]
-
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.86.1"
